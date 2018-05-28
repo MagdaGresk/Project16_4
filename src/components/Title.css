@@ -1,0 +1,9 @@
+.Title {
+	background-color: #ffeaa7;
+  	border: 2px solid black;
+  	border-radius: 20px;
+    color: black;
+    font-family: "Cutive Mono", monospace;
+    font-size: 36px;
+    padding: 20px;
+}
